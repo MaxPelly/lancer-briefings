@@ -89,8 +89,8 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
-      "current_md": "003",
+      "mission_slug": "004",
+      "current_md": "004",
       "events": "",
       "missions": [
           {
@@ -106,13 +106,13 @@ export default {
 	    {
           "slug": "003",
           "name": "Operation Howling Blade",
-          "status": "partial-success"
+          "status": "success"
         },
-        /*{
+        {
           "slug": "004",
           "name": "Exploring Astran IV",
           "status": "start"
-        },*/
+        },
       ],
       "pilots": [
         {

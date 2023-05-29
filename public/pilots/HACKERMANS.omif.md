@@ -1,3 +1,9 @@
+Lancer “HACKERMANS” (real name unknown) is a Caucasian male, age 23-27, with a lithe build and no outstanding features.  They are best know as a streaming personality, but they also self-publish music mashups as a hobby (their tracks often appear in streams, along with those of other artists in the community (investigation into possible ties is pending)).  Their personality is jovial with a dry sense of humor.
+
+
+---
+
+
 The following is a record of an interaction between the Lancer “HACKERMANS” (a member of the Mirrorsmoke Company), and an unknown outside entity
 This record was transcribed by Officer Haze due to the perceived significance of the recorded interaction.  This interaction took place following an extermination mission HACKERMANS was part of (for the relevant mission details, refer to mission folder 07-36-21).  During this mission, the Lancer came into with and subsequently defeated what is believed to have been a H0RUS operative.  While this encounter was streamed, any records or clips of the mission have been removed from the Lancer’s Jolt page.  This conversation took place 17 minutes after their debrief.
 <HACKERMANS> Hooh.  That was… quite the stream.  I’ll have to check through the replay so I don’t fall for any of… whatever that thing was doing.
@@ -111,5 +117,3 @@ Shush.  I'll work on you later.  I need a rest now.
 Following the Signals Left Unsung incident, HACKERMANS has become somewhat more erratic.  He (they?) has been making repeated requests for texts on NHPs, specifically ones referencing defragmentation and the nature of the NHP consciousness.  This activity should be monitored closely in order to ascertain what precisely transpired between him and Sera.
 
 Additionally, and somehow even more worryingly, HACKERMANS has been heard mentioning an entity "Ecne".  All discussion surrounding this entity is confusing at least and indecipherable at worst, with pronouns and tenses seemingly being interchanged freely.  It appears that the lancer himself (themself?) is unsure as to the nature and goals of this entity.  Further monitoring is strongly recommended.
-
-

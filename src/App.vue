@@ -110,9 +110,14 @@ export default {
         },
         {
           "slug": "004",
-          "name": "Exploring Astran IV",
+          "name": "Budding Problems",
           "status": "start"
         },
+        /*{
+          "slug": "005",
+          "name": "Exploring Astran IV",
+          "status": "start"
+        },*/
       ],
       "pilots": [
         {

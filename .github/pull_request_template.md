@@ -10,7 +10,7 @@ Are you adding a new mission?
 - In the src directory update App.vue by copying and pasting one of the mission and adding to the bottom of the list (starts line 95). **slug must match the mission number in the file name!** Status can be start, partial-success, success, or failure.
 - To make the mission show loaded when the page is loaded set the mission_slug and current_md starting line 92
 
-You may also want to update the header section starting line 167 to keep us up to date.
+You may also want to update the header section starting line 175 to keep us up to date.
 
 **If you've edited a file update the line numbers above in .github/pull_request_template.md**
 

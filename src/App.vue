@@ -111,13 +111,13 @@ export default {
         {
           "slug": "004",
           "name": "Budding Problems",
-          "status": "start"
+          "status": "success"
         },
-        /*{
+        {
           "slug": "005",
           "name": "Exploring Astran IV",
           "status": "start"
-        },*/
+        },
       ],
       "pilots": [
         {

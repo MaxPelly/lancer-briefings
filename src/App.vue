@@ -89,8 +89,8 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
-      "current_md": "005",
+      "mission_slug": "006",
+      "current_md": "006",
       "events": "",
       "missions": [
           {
@@ -116,6 +116,11 @@ export default {
         {
           "slug": "005",
           "name": "Exploring Astran IV",
+          "status": "success"
+        },
+        {
+          "slug": "006",
+          "name": "Small Problem - Quick Solution",
           "status": "start"
         },
       ],

@@ -1,401 +1,451 @@
-“the universal is no strengthless, arbitrary distillation of the common features of what is individual and empirical; it is rather what must be conceived as realizing itself in what is individual and empirical, and as responsible both for the being and intelligibility of the latter”
+âthe universal is no strengthless, arbitrary distillation of the common features of what is individual and empirical; it is rather what must be conceived as realizing itself in what is individual and empirical, and as responsible both for the being and intelligibility of the latterâ
 
 -Contemplations on the understanding of spirit and self, Guadalupe Caracara
 
-Wayfare: sooooooooooooooooooooooo
+  
 
-Wayfare: you wanted our chatlogs, but I figured that seemed a touch stale
 
-Charon: …Would you believe me if I said it wasn’t on purpose?
+***Wayfare: sooooooooooooooooooooooo***
 
-Wayfare: so I figured I’d let you see things live instead!
+***Wayfare: you wanted our chatlogs, but I figured that seemed a touch stale***
 
-Wayfare: uhhhh yeah no way anybodies gonna buy that lmao
+***Charon: â¦Would you believe me if I said it wasnât on purpose?***
 
-Wayfare: weve had venco sniffers poking around for that for dayyyyyyyyssss now
+***Wayfare: so I figured Iâd let you see things live instead!***
 
-Wayfare: no way someone just stumbles into it lol :3
+***Wayfare: uhhhh yeah no way anybodies gonna buy that lmao***
 
-FLOTANFOREVA: Somebody call?
+***Wayfare: weve had venco sniffers poking around for that for dayyyyyyyyssss now***
 
-SilveredApe: are you logged in on your phone _again_?
+***Wayfare: no way someone just stumbles into it lol :3***
 
-FLOTANFOREVA: ...no
+***FLOTANFOREVA: Somebody call?***
 
-FLOTANFOREVA:Y u gotta act like my fuckin dad or smth
+***SilveredApe: are you logged in on your phone \_again\_?***
 
-SilveredApe: I’ve told you before, it doesn’t matter what funky little daemon blinkspace aether bullshit youve hooked onto the thing
+***FLOTANFOREVA: ...no***
 
-Charon: uhhh what the fuck is happening
+***FLOTANFOREVA:Y u gotta act like my fuckin dad or smth***
 
-SilveredApe: also, I still don’t fucking trust that shit
+***SilveredApe: Iâve told you before, it doesnât matter what funky little daemon blinkspace aether bullshit youve hooked onto the thing***
 
-FLOTANFOREVA: OH MY GODDDDDDDDDDDDDDDDd youre ranting again
+***Charon: uhhh what the fuck is happening***
 
-SilveredApe: Why the hell are we giving it access to our servers?
+***SilveredApe: also, I still donât fucking trust that shit***
 
-Wayfare: guys can we please stop arguing in front of the newbie
+***FLOTANFOREVA: OH MY GODDDDDDDDDDDDDDDDd youre ranting again***
 
-SilveredApe: But yeh, doesn’t matter what you do, your phone was still built by LTS, its still rat shit
+***SilveredApe: Why the hell are we giving it access to our servers?***
 
-FLOTANFOREVA: lannnnnnnnnddddd tell grumpy gorilla over here to stomp being such a grandpa
+***Wayfare: guys can we please stop arguing in front of the newbie***
 
-FLOTANFOREVA: NHP’s are finnnneeeee
+***SilveredApe: But yeh, doesnât matter what you do, your phone was still built by LTS, its still rat shit***
 
-FLOTANFOREVA: some people are just stupid about them is all
+***FLOTANFOREVA: lannnnnnnnnddddd tell grumpy gorilla over here to stomp being such a grandpa***
 
-Reg35354231: lmao this argument again
+***FLOTANFOREVA: NHPâs are finnnneeeee***
 
-Reg35374231: heyo new bitch
+***FLOTANFOREVA: some people are just stupid about them is all***
 
-Reg35374321: hope youre enjoying yourself, it doesn’t get better
+***Reg35354231: lmao this argument again***
 
-Charon: thx? I think?
+***Reg35374231: heyo new bitch***
 
-Charon: also @FLOTANFOREVA
+***Reg35374321: hope youre enjoying yourself, it doesnât get better***
 
-Charon: wtf does he mean youve got a daemon hooked up to your phone
+***Charon: thx? I think?***
 
-Charon: how does that even work
+***Charon: also @FLOTANFOREVA***
 
-FLOTANFOREVA: No so like
+***Charon: wtf does he mean youve got an daemon hooked up to your phone***
 
-Charon: like you cant exactly fit a casket in there
+***Charon: how does that even work***
 
-FLOTANFOREVA: so like… its not ‘in’ my phone, ive basically got it hooked up to my router
+***FLOTANFOREVA: No so like***
 
-FLOTANFOREVA: like a vpn ig
+***Charon: like you cant exactly fit a casket in there***
 
-Charon: ...it controls your internet…?
+***FLOTANFOREVA: so likeâ¦ its not âinâ my phone, ive basically got it hooked up to my router***
 
-Charon: yea okay I get what u mean ape
+***FLOTANFOREVA: like a vpn ig***
 
-FLOTANFOREVA: fuck u
+***Charon: ...it controls your internetâ¦?***
 
-tmrwLnd: It is 4 in the fucking mornign
+***Charon: yea okay I get what u mean ape***
 
-tmrwLnd: mornign
+***FLOTANFOREVA: fuck u***
 
-tmrwLnd: MORNING
+***tmrwLnd: It is 4 in the fucking mornign***
 
-FLOTANFOREVA: mornign
+***tmrwLnd: \*mornign***
 
-SilveredApe: mornign
+***tmrwLnd: \*MORNING***
 
-Reg35374304: mornign lol
+***FLOTANFOREVA: mornign***
 
-tmrwLnd: kill me
+***SilveredApe: mornign***
 
-tmrwLnd: fuck all yall
+***Reg35374304: mornign lol***
 
-tmrwLnd: go to sleep
+***tmrwLnd: kill me***
 
-Wayfare: ANYWAY
+***tmrwLnd: fuck all yall***
 
-Wayfare: you acc nearly got through
+***tmrwLnd: go to sleep***
 
-Wayfare: So uhh yeah, welcome to the gc ig
+***Wayfare: ANYWAY***
 
-tmrwLnd: So what? Some dumbass script kiddie falls into your fucking baited pit and all of a sudden she’s your new pet project?
+***Wayfare: you acc nearly got through***
 
-tmrwLnd: you used to have standards, -we- used to have standards, for these things man
+***Wayfare: So uhh yeah, welcome to the gc ig***
 
-SilveredApe: Fuck off land, if you wanna larp as some fucking elite revolutionary or whatev then acc do somethig
+***tmrwLnd: So what? Some dumbass script kiddie falls into your fucking baited pit and all of a sudden sheâs your new pet project?***
 
-SilveredApe: You know as well as the rest of us this is just a place to fuck around
+***tmrwLnd: you used to have standards, -we- used to have standards, for these things man***
 
-SilveredApe: She fell in sure, but that just shows shes got the same interests
+***SilveredApe: Fuck off land, if you wanna larp as some fucking elite revolutionary or whatev then acc do somethig***
 
-SilveredApe: not as if youre spoiled for choice for friends in your circles anyway
+***SilveredApe: You know as well as the rest of us this is just a place to fuck around***
 
-tmrwLnd: We literally have warrants ape!!! Im allowed to take this a little seriously okay?
+***SilveredApe: She fell in sure, but that just shows shes got the same interests***
 
-SilveredApe: lmao
+***SilveredApe: not as if youre spoiled for choice for friends in your circles anyway***
 
-SilveredApe: You think she’s some venco goon now do you? Ik it was bait but still, they havent half the fuckin mind for that man
+***tmrwLnd: We literally have warrants ape!!! Im allowed to take this a little seriously okay?***
 
-Charon: Uh if you guys want I can leave?
+***SilveredApe: lmao***
 
-Charon: Idk was just curious abt it all, its not like
+***SilveredApe: You think sheâs some venco goon now do you? Ik it was bait but still, they havent half the fuckin mind for that man***
 
-SilveredApe: stop being so paranoid all the time man, its not a big deal ^.^
+***Charon: Uh if you guys want I can leave?***
 
-Charon: Its not like… life or death or whatev
+***Charon: Idk was just curious abt it all, its not like***
 
-tmrwLnd: ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+***SilveredApe: stop being so paranoid all the time man, its not a big deal ^.^***
 
-tmrwLnd: fkcn hell man
+***Charon: Its not likeâ¦ life or death or whatev***
 
-SilveredApe: Nah dw bout land, he just gets like this sometimes
+***tmrwLnd: ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh***
 
-tmrwLnd: im just tryna be careful yeah? Don’t make me out to be some kind of villain
+***tmrwLnd: fkcn hell man***
 
-SilveredApe: youre more than welcome, nice to see a new face
+***SilveredApe: Nah dw bout land, he just gets like this sometimes***
 
-tmrwLnd: Look nthn against you Cha, the rest of these guys jsy seem to treat this like a game
+***tmrwLnd: im just tryna be careful yeah? Donât make me out to be some kind of villain***
 
-SilveredApe: ...well, figuratively obviously
+***SilveredApe: youre more than welcome, nice to see a new face***
 
-tmrwLnd: Stresses me out ykno? Didn’t mean to be a hardass over it
+***tmrwLnd: Look nthn against you Cha, the rest of these guys jsy seem to treat this like a game***
 
-tmrwLnd: Just,,, don’t expect me to be using irl names or whatev round u and well be chil ya feel?
+***SilveredApe: ...well, figuratively obviously***
 
-Charon: Nah I getchu, im not abt to pass mine over either anyways lol
+***tmrwLnd: Stresses me out ykno? Didnât mean to be a hardass over it***
 
-Charon: Tho I get the feelin wayfare probs has it already :/
+***tmrwLnd: Just,,, donât expect me to be using irl names or whatev round u and well be chil ya feel?***
 
-tmrwLnd: hahaha dw bout him lmao
+***Charon: Nah I getchu, im not abt to pass mine over either anyways lol***
 
-tmrwLnd: Man knows fucking everything, swear down, but he’s good people
+***Charon: Tho I get the feelin wayfare probs has it already :/***
 
-Wayfare: No way! Slandered in my own backyard!
+***tmrwLnd: hahaha dw bout him lmao***
 
-Wayfare: What is this nonsense!
+***tmrwLnd: Man knows fucking everything, swear down, but heâs good people***
 
-Reg1239054: Tsk tsk, back in our time kids like yall would show more respect
+***Wayfare: No way! Slandered in my own backyard!***
 
-Charon: that wasnt a denial…
+***Wayfare: What is this nonsense!***
 
-Wayfare: Wounded! Scarred even! I shall never recover from this slight!
+***Reg1239054: Tsk tsk, back in our time kids like yall would show more respect***
 
-SilveredApe: Bro… hwo old are you reg????
+***Charon: that wasnt a denialâ¦***
 
-SilveredApe: Im not exactly one of these spry young things anymore…
+***Wayfare: Wounded! Scarred even! I shall never recover from this slight!***
 
-Reg1239564: We’ve been around for a while ig… tbh probs not that much older than u tho lmao
+***SilveredApe: Broâ¦ hwo old are you reg????***
 
-Reg1239546: (not that u act it)
+***SilveredApe: Im not exactly one of these spry young things anymoreâ¦***
 
-“and still, we define ourselves not by flesh or other contraption of form, but instead by the ephemeral. For a time, soul, some divine spark of uniqueness. Still now, we often considered ourselves by nature of our thoughts. Some conception of ‘personality’, well, it makes itself clear by its own name. Yet this too will change”
+***Reg1239564: Weâve been around for a while igâ¦ tbh probs not that much older than u tho lmao***
+
+***Reg1239546: (not that u act it)***
+
+  
+
+
+â*and still, we define ourselves not by flesh or other contraption of form, but instead by the ephemeral. For a time, soul, some divine spark of uniqueness. Still now, we often considered ourselves by nature of our thoughts. Some conception of âpersonalityâ, well, it makes itself clear by its own name. Yet this too will changeâ*
 
 -The Nature of Identity, Aenocyon Dirus
 
+  
+
+
 A chuckle, a snort as she stifles it back, soon her phone is tossed to the bed in the tiny broom closet that passes as maintenance accom as she gives into the full manic laughter.
 
-“God they're just… fuckin hell Horus always gets hyped up as some fucking cabal, but they're just… fuckin dumbasses with too much time” Stolen breaths between the laughter let her mutter under her breath, a hand running through her auburn hair.
+  
 
-“I mean seriously… they do realise those response times fucking guarantee they’re on the same ship right?” It might be orbiting the half resort planet and half mining colony some half a million kilometers below, and sure some comm tech is good, and if that psycho kid has got a daemon running theirs it’ll be really good, but there's still gonna be some delay.
 
-“So what, that makes 50k candidates? Technically if I limit it by who's actually qualified probably only a few hundred, but I get the feeling these shitheads aren’t exactly certified”
+âGod they're justâ¦ fuckin hell Horus always gets hyped up as some fucking cabal, but they're justâ¦ fuckin dumbasses with too much timeâ Stolen breaths between the laughter let her mutter under her breath, a hand running through her auburn hair.
 
-She starts doing some basic stretches, every joint cracking not so much with a pop, but a hiss as her embedded augments protest the forced motion, still the ritual routine is calming and the quality of gear her unit gets supplied with can more than hold up to being pulled externally every now and again… they’re expected to be subjected to significantly worse after all.
+  
 
-This is gonna be fun
 
-“The many-mind was first speculated on by ancient civilisations, then later discarded. Due to primarily existing within PC/BS interactions led certain individuals to be made keenly aware due to aberrant thought-modi however rigorous analysis led to it’s existence being thoroughly debunked. To be clear, these people where not correct. They did not know what they knew, still they knew more than their colleagues which was, for a time, enough.”
+âI mean seriouslyâ¦ they do realise those response times fucking *guarantee* theyâre on the same ship right?â It might be orbiting the half resort planet and half mining colony some half a million kilometers below, and sure some comm tech is *good*, and if that psycho kid has got a daemon running theirs itâll be *really* good, but there's still gonna be some delay.
 
--Evidence of pre-Deimos True Thought, <<//REDACTED>>
+  
 
-Charon: Hey guys so
 
-Charon: I think I’ve got smth big
+âSo what, that makes 50k candidates? *Technically* if I limit it by who's actually qualified probably only a few hundred, but I get the feeling these shitheads arenât exactly certifiedâ
 
-tmrwLnd: bigger than that dumbass who had all his bio scanned?
+  
 
-Charon: @FLOTANFOREVA ur probs gonna like it
 
-FLOTANFOREVA: da fuk?
+She starts doing some basic stretches, every joint cracking not so much with a pop, but a hiss as her embedded augments protest the forced motion, still the ritual routine is calming and the quality of gear her unit gets supplied with can more than hold up to being pulled externally every now and againâ¦ theyâre expected to be subjected to *significantly* worse after all.
 
-SilveredApe: lmao have fun, probs gonna sit this out whatev it is tho
+  
 
-Charon: ykno how I have some of Gridfells servers right? Well I have it beaded for some keywords, just scans the logs every week or b4 reset basically
 
-SilveredApe: Works been hell lately :/
+*This is gonna be fun*
 
-Charon: apparently, some venco big wig is coming over to hook one of the lords up w a new schema for their knights
+  
 
-Wayfare: calling them ‘knights’ still sounds goofy as fuck
 
-FLOTANFOREVA: its what their fuckin called man, is how it is
+â*The many-mind was first speculated on by ancient civilisations, then later discarded. Due to primarily existing within PC/BS interactions led certain individuals to be made keenly aware due to aberrant thought-modi however rigorous analysis led to itâs existence being thoroughly debunked. To be clear, these people where not correct. They did not know what they knew, still they knew more than their colleagues which was, for a time, enough.â*
 
-Reg4355923: they’re :)
+*-Evidence of pre-Deimos True Thought, <<//REDACTED>>*
 
-FLOTANFOREVA: thnd.sim
+  
 
-tmrwLnd: sigh
 
-tmrwLnd: why do we even try flo
+***Charon: Hey guys so***
 
-Charon: ANYWAY!
+***Charon: I think Iâve got smth big***
 
-Charon: venco, knight prints, here, next week
+***tmrwLnd: bigger than that dumbass who had all his bio scanned?***
 
-Wayfare: yeah uhhh, usually im down to try this shit, but fucking w an acc venco rep, even one flying out this far,
+***Charon: @FLOTANFOREVA ur probs gonna like it***
 
-FLOTANFOREVA: cmon man! Live a little Wayfare!
+***FLOTANFOREVA: da fuk?***
 
-Reg4375923: I think wanting to live a little is why their not down
+***SilveredApe: lmao have fun, probs gonna sit this out whatev it is tho***
 
-Reg5355923: lol
+***Charon: ykno how I have some of Gridfells servers right? Well I have it beaded for some keywords, just scans the logs every week or b4 reset basically***
 
-Charon: cmonnnnnnnnn guys
+***SilveredApe: Works been hell lately :/***
 
-Charon: were not gonna acc fuck w the corp
+***Charon: apparently, some venco big wig is coming over to hook one of the lords up w a new schema for their knights***
 
-SilveredApe: thank Muninn
+***Wayfare: calling them âknightsâ still sounds goofy as fuck***
 
-Charon: but im almost certain its gonna be Grey Novare that theyre selling to
+***FLOTANFOREVA: its what their fuckin called man, is how it is***
 
-Charon: hes the only guy with the cash for it
+***Reg4355923: \*theyâre :)***
 
-Charon: and sure, he’ll probs have the acc files cubed, lock and key
+***FLOTANFOREVA: thnd.sim***
 
-FLOTANFOREVA: no way
+***tmrwLnd: sigh***
 
-FLOTANFOREVA: did u get his transfer?
+***tmrwLnd: why do we even try flo***
 
-Charon: haha not giving me my moment :’(
+***Charon: ANYWAY!***
 
-FLOTANFOREVA: dc, u get his transfer???
+***Charon: venco, knight prints, here, next week***
 
-Charon: Nah
+***Wayfare: yeah uhhh, usually im down to try this shit, but fucking w an acc venco rep, even one flying out this far,***
 
-Wayfare: are we seriously entertaining this…
+***FLOTANFOREVA: cmon man! Live a little Wayfare!***
 
-tmrwLnd: eh y not
+***Reg4375923: I think wanting to live a little is why their not down***
 
-Charon: not yet but I think I do know how we could get em
+***Reg5355923: lol***
 
-Charon: Do any of yall have a Syn90?
+***Charon: cmonnnnnnnnn guys***
 
-tmrwLnd: venco already wants our asses anyways after flo hosted their dev thread lmao
+***Charon: were not gonna acc fuck w the corp***
 
-tmrwLnd: also yah, y?
+***SilveredApe: thank Muninn***
 
-SilveredApe: HAHAHAHAA
+***Charon: but im almost certain its gonna be Grey Novare that theyre selling to***
 
-SilveredApe: no way, mr fuckin SilCubed custom Knight outfit still has a server old enough for that to work???
+***Charon: hes the only guy with the cash for it***
 
-SilveredApe: local hosts havent allowed blink connections since like,,, a month after we figured out blink connections are a thing
+***Charon: and sure, heâll probs have the acc files cubed, lock and key***
 
-Charon: yes and no
+***FLOTANFOREVA: no way***
 
-FLOTANFOREVA: blink connections…? Dyou mean like an aether link? those dont happen over blinkspace
+***FLOTANFOREVA: did u get his transfer?***
 
-SilveredApe: No so like
+***Charon: haha not giving me my moment :â(***
 
-Charon: basically hes updated his actual hardware relatively regularly, but apparently one of his servers still needs to be open to blink space, cause its synced with one of the branches surface side? and like… that database was made a decade ago
+***FLOTANFOREVA: dc, u get his transfer???***
 
-SilveredApe: Basically ykno how blinkspace is just information right? A blink connection is this thing where you have two bits of identical information and you sorta… move them towards each other till they overlap
+***Charon: Nah***
 
-Charon: so it still uses blink msging to send updates and shit, and apparently getting someone planet side to fix it just straight up wasnt possible lmao
+***Wayfare: are we seriously entertaining thisâ¦***
 
-SilveredApe: and then you can use one as a proxy for another, so like if you made 1 file that was an exact copy of one on someone elses system, then sent it to yourself over blink, you could end up in someone elses file system and then navigate that normally
+***tmrwLnd: eh y not***
 
-SilveredApe: people freaked when it was figured out
+***Charon: not yet but I think I do know how we could get em***
 
-FLOTANFOREVA: that makes like 0 fucking sense, how do you even send smth “over blink”
+***Charon: Do any of yall have a Syn90?***
 
-Charon: Oh I can explain that one lol
+***tmrwLnd: venco already wants our asses anyways after flo hosted their dev thread lmao***
 
-Charon: basically, ykno how location gets all fucky wucky in blink right? Its just another datapoint and then its all similarities and relativity
+***tmrwLnd: also yah, y?***
 
-Charon: so what some guy did, was made a little device that, if you knew the location data of a bit of info, + the ‘location’ that wherever you where storing info represented, you could access the data in 
-pos x, and switch it to pos y
+***SilveredApe: HAHAHAHAA***
 
-Charon: and then itd show up just like that! No communication times necessary
+***SilveredApe: no way, mr fuckin SilCubed custom Knight outfit still has a server old enough for that to work???***
 
-Charon: course for securities sake, youd still need to send standard signals every month or so, to alter the location code for all the devices/cloud points involved, but it meant basically no latency even cross system
+***SilveredApe: local hosts havent allowed blink connections since like,,, a month after we figured out blink connections are a thing***
 
-FLOTANFOREVA: okay and sending smth to yrself is what? just setting the location to the same place again?
+***Charon: yes and no***
 
-Charon: ehhhh ‘sent it to yourself’ wasnt 100% accurate (sry)
+***FLOTANFOREVA: blink connectionsâ¦? Dyou mean like an aether link? those dont happen over blinkspace***
 
-SilveredApe: np, not my speciality, I just got the Syn from work since we acc used syncing when it first came out lmao
+***SilveredApe: No so like***
 
-SilveredApe: can tell yr acc passionate abt it
+***Charon: basically hes updated his actual hardware relatively regularly, but apparently one of his servers still needs to be open to blink space, cause its synced with one of the branches surface side? and likeâ¦ that database was made a decade ago***
 
-Charon: so what you actually do, is like…. Okay so on syn devices (only the ones past syn50~ tho) they optimised the shit out of everything, one of the main ways they did that was using “relative transactional information positioning” which basically combines the “similarity” stuff and the “location data point” stuff so that you can do stuff like check “hey that thing I just accessed, whats the older version of that” or like, “hey what folder is that thing I just accessed in”
+***SilveredApe: Basically ykno how blinkspace is just information right? A blink connection is this thing where you have two bits of identical information and you sortaâ¦ move them towards each other till they overlap***
 
-Charon: main use of it was for tracking, basically it let you check where a file had previously been as well as where it is+info abt where its going to prevent it overriding anything (was a big problem when first starting out) however
+***Charon: so it still uses blink msging to send updates and shit, and apparently getting someone planet side to fix it just straight up wasnt possible lmao***
 
-Charon: if you sent out data, without a location specified, it would just set its location to “where I already was” functionally, but if you then tried to retrieve that bit of data (not by using its location, but by using the transaction history of your own location to basically say “that thing I just sent”) then it would return the file to you in its blinkspace form where you could navigate from it locationally or relatively, so if you don’t specify the location at that stage too, then it will return any file from any system that contains the same information, with all its adjacent content intact and free to move between
+***SilveredApe: and then you can use one as a proxy for another, so like if you made 1 file that was an exact copy of one on someone elses system, then sent it to yourself over blink, you could end up in someone elses file system and then navigate that normally***
 
-FLOTANFOREVA: wouldnt they just… turn of relative positioning then?
+***SilveredApe: people freaked when it was figured out***
 
-SilveredApe: nah thats just how blinkspace works
+***FLOTANFOREVA: that makes like 0 fucking sense, how do you even send smth âover blinkâ***
 
-Charon: ^
+***Charon: Oh I can explain that one lol***
 
-Charon: Yeah like… blinkspace is just the data-form of reality, its not like something we made
+***Charon: basically, ykno how location gets all fucky wucky in blink right? Its just another datapoint and then its all similarities and relativity***
 
-tmrwLnd: huh, weirdly, I really like this idea lmao
+***Charon: so what some guy did, was made a little device that, if you knew the location data of a bit of info, + the âlocationâ that wherever you where storing info represented, you could access the data in pos x, and switch it to pos y***
 
-tmrwLnd: you actually know wtf youre talking abt dont you? way to show me up lmao
+***Charon: and then itd show up just like that! No communication times necessary***
 
-Charon: all that syn made was a tool that let you navigate blinkspace more effectively, so the only way on the host side to stop people navigating into your servers that way is by fully shutting off all blink connections
+***Charon: course for securities sake, youd still need to send standard signals every month or so, to alter the location code for all the devices/cloud points involved, but it meant basically no latency even cross system***
 
-Wayfare: okay but how tf are we gonna acc get a file to match perfectly like that? kinda a catch 22 no? we need access to see their files to replicate a file to get access to see the file we need to replicate
+***FLOTANFOREVA: okay and sending smth to yrself is what? just setting the location to the same place again?***
 
-Charon: which takes us to the top of the convo again, basically right after the schema is downloaded, itll then need a bit before he can get it onto hard storage
+***Charon: ehhhh âsent it to yourselfâ wasnt 100% accurate (sry)***
 
-Charon: so if we take a clone of his servers during the hour or so after the exchange, we’ll have whole fucking knight licences
+***SilveredApe: np, not my speciality, I just got the Syn from work since we acc used syncing when it first came out lmao***
 
-FLOTANFOREVA: HOLY SHIT
+***SilveredApe: can tell yr acc passionate abt it***
 
-FLOTANFOREVA: YES A MILLION YES SIGN ME UP YES
+***Charon: so what you actually do, is likeâ¦. Okay so on syn devices (only the ones past syn50~ tho) they optimised the shit out of everything, one of the main ways they did that was using ârelative transactional information positioningâ which basically combines the âsimilarityâ stuff and the âlocation data pointâ stuff so that you can do stuff like check âhey that thing I just accessed, whats the older version of thatâ or like, âhey what folder is that thing I just accessed inâ***
 
-Wayfare: How tf are we getting the file tho char?
+***Charon: main use of it was for tracking, basically it let you check where a file had previously been as well as where it is+info abt where its going to prevent it overriding anything (was a big problem when first starting out) however***
 
-Charon: oh right that bits acc p simple lmao
+***Charon: if you sent out data, without a location specified, it would just set its location to âwhere I already wasâ functionally, but if you then tried to retrieve that bit of data (not by using its location, but by using the transaction history of your own location to basically say âthat thing I just sentâ) then it would return the file to you in its blinkspace form where you could navigate from it locationally or relatively, so if you donât specify the location at that stage too, then it will return any file from any system that contains the same information, with all its adjacent content intact and free to move between***
 
-Charon: ykno those snitch forms? Community service reports or smth?
+***FLOTANFOREVA: wouldnt they justâ¦ turn of relative positioning then?  
+SilveredApe: nah thats just how blinkspace works***
 
-Charon: you can embed an image into them, and its downloaded in full along side the rest of the report, so we just need to do that a bunch is all
+***Charon: ^***
 
-FLOTANFOREVA: wait srsly???
+***Charon: Yeah likeâ¦ blinkspace is just the data-form of reality, its not like something we made***
 
-Charon: yea lmao, its acc even easier than that, as long as any part of the server is public facing u can download it through the syn to get its location, then theres a couple ways to get them to force the download (mainly by swapping the location of something the server is trying to access with the target file) but thatd lead back to us too strongly I feel
+***tmrwLnd: huh, weirdly, I really like this idea lmao***
 
-Charon: but I will probs need like… a good dozen pc’s to do this, @tmrwLnd youve got a zombie network right?
+***tmrwLnd: you actually know wtf youre talking abt dont you? way to show me up lmao***
 
-Charon: my plan was basically to have u file a gazillion reports using those, then have whoevers got the syn (in this case silvered) get access and then we could use Flo’s daemon to parse through it so we’re not downloading fucking terabytes of data
+***Charon: all that syn made was a tool that let you navigate blinkspace more effectively, so the only way on the host side to stop people navigating into your servers that way is by fully shutting off all blink connections***
 
-tmrwLnd: woah bud
+***Wayfare: okay but how tf are we gonna acc get a file to match perfectly like that? kinda a catch 22 no? we need access to see their files to replicate a file to get access to see the file we need to replicate***
 
-tmrwLnd: its a cool idea and all, but I don’t appreciate being volunteered like that
+***Charon: which takes us to the top of the convo again, basically right after the schema is downloaded, itll then need a bit before he can get it onto hard storage***
 
-tmrwLnd: also, silvered says theyre out anyways so its moot
+***Charon: so if we take a clone of his servers during the hour or so after the exchange, weâll have whole fucking knight licences***
 
-Wayfare: feeling a little left out rn :P
+***FLOTANFOREVA: HOLY SHIT***
 
-Charon: Hey if youve got a syn you can take over from silvered?
+***FLOTANFOREVA: YES A MILLION YES SIGN ME UP YES***
 
-Wayfare: yeah unfortunately the one I have is like a 20, just use it hook into some legacy servers that still rely on sync
+***Wayfare: How tf are we getting the file tho char?***
 
-SilveredApe: I mean ik wayfare irl, could pass it to them next time we meet up?
+***Charon: oh right that bits acc p simple lmao***
 
-FLOTANFOREVA: id have to ask Rhonda first, but she’s always wanted a suit so im sure she’ll be down!
+***Charon: ykno those snitch forms? Community service reports or smth?***
 
-tmrwLnd: guys… I still feel like we’re being too hasty here
+***Charon: you can embed an image into them, and its downloaded in full along side the rest of the report, so we just need to do that a bunch is all***
 
-Charon: I mean I can probably just do it manually from my personal machine if youre not down Land?
+***FLOTANFOREVA: wait srsly???***
 
-Charon: u don’t gotta feel pressured into anything
+***Charon: yea lmao, its acc even easier than that, as long as any part of the server is public facing u can download it through the syn to get its location, then theres a couple ways to get them to force the download (mainly by swapping the location of something the server is trying to access with the target file) but thatd lead back to us too strongly I feel***
 
-tmrwLnd: no cause if you do that you’ll defo get caught
+***Charon: but I will probs need likeâ¦ a good dozen pcâs to do this, @tmrwLnd youve got a zombie network right?***
 
-tmrwLnd: youre a bit annoying, but I don’t want u getting tapped by venco minders or anythin
+***Charon: my plan was basically to have u file a gazillion reports using those, then have whoevers got the syn (in this case silvered) get access and then we could use Floâs daemon to parse through it so weâre not downloading fucking terabytes of data***
 
-Charon: awwwww thx!
+***tmrwLnd: woah bud***
 
-Charon: I knew you loved me really ;)
+***tmrwLnd: its a cool idea and all, but I donât appreciate being volunteered like that***
 
-tmrwLnd: You’re Insufferable.
+***tmrwLnd: also, silvered says theyre out anyways so its moot***
 
-“They refused us thrice.
+***Wayfare: feeling a little left out rn :P***
 
-At first we came to them as the hunter. Clothed in furs and with bow in hand we walked out from betwixt two symmetrical trees as a tender child, not yet of age to leave and fly on our own wings. Weak and frail we asked only to be given what we needed, and what they could spare.
+***Charon: Hey if youve got a syn you can take over from silvered?***
 
-They refused us as a liability.
+***Wayfare: yeah unfortunately the one I have is like a 20, just use it hook into some legacy servers that still rely on sync***
 
-Second we arrived in the dead of night, a ghost hewn in shadows we became the secrets they still denied. We where allowed to stay for a time as a witch and elder both, advising on that which lay beyond the veil. One day we saw what we should not.
+***SilveredApe: I mean ik wayfare irl, could pass it to them next time we meet up?***
 
-They refused us as a risk.
+***FLOTANFOREVA: id have to ask Rhonda first, but sheâs always wanted a suit so im sure sheâll be down!***
 
-Finally we arrived as a watcher. We already knew their names. We gazed upon them as a Crucifix amongst those absolved. The noose behind the spared. We where their protector and guardian, we guided their flocks and raised their young. Soon they grew as we did, limbs in strength and number, eyes in counts and planes. The daughter told the son how he would kill her, and he did.
+***tmrwLnd: guysâ¦ I still feel like weâre being too hasty here***
 
-They refused as a threat.
+***Charon: I mean I can probably just do it manually from my personal machine if youre not down Land?***
 
-Now we come to them as all and none, ethereal yet frail, all consumptive yet shackled, intimate yet separate, real and abstract while absolute singularity that spreads. We arrived in totality, and we where not refused.”-The Land of Tomorrow, Gale William
+***Charon: u donât gotta feel pressured into anything***
+
+***tmrwLnd: no cause if you do that youâll defo get caught***
+
+***tmrwLnd: youre a bit annoying, but I donât want u getting tapped by venco minders or anythin***
+
+***Charon: awwwww thx!***
+
+***Charon: I knew you loved me really ;)***
+
+***tmrwLnd: Youâre Insufferable.***
+
+  
+
+
+â*They refused us thrice.*
+
+  
+
+
+*At first we came to them as the hunter. Clothed in furs and with bow in hand we walked out from betwixt two symmetrical trees as a tender child, not yet of age to leave and fly on our own wings. Weak and frail we asked only to be given what we needed, and what they could spare.*
+
+*They refused us as a liability.*
+
+  
+
+
+*Second we arrived in the dead of night, a ghost hewn in shadows we became the secrets they still denied. We where allowed to stay for a time as a witch and elder both, advising on that which lay beyond the veil. One day we saw what we should not.*
+
+*They refused us as a risk.*
+
+  
+
+
+*Finally we arrived as a watcher. We already knew their names. We gazed upon them as a Crucifix amongst those absolved. The noose behind the spared. We where their protector and guardian, we guided their flocks and raised their young. Soon they grew as we did, limbs in strength and number, eyes in counts and planes. The daughter told the son how he would kill her, and he did.*
+
+*They refused as a threat.*
+
+  
+
+
+*Now we come to them as all and none, ethereal yet frail, all consumptive yet shackled, intimate yet separate, real and abstract while absolute singularity that spreads. We arrived in totality, and we where not refused.â  
+-The Land of Tomorrow, Gale William*
+
+  
+
+
+  
+
 

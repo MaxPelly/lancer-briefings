@@ -125,55 +125,111 @@ export default {
         },
       ],
       "pilots": [
-        {
-          "callsign": "Mirage",
-          "alias": "Avron Aubery",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "IPS-N",
-          "frame": "Empakaai",
-          "mech": "Blood Will Flow When Flesh And Steel Are One"
-        },
-        {
-          "callsign": "HB",
-          "alias": "Honney",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "SSC",
-          "frame": "Everest",
-          "mech": "Discord Kitten"
-        },
-        {
-          "callsign": "Charon",
-          "alias": "Kira Feldston",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "SSC",
-          "frame": "Viceroy",
-          "mech": "Viceroy"
-        },
-	{
-          "callsign": "HACKERMANS.omif",
-          "alias": "Ecne",
-          "code": "7fu24if8-389b-4903-u4i0-67298y3iu487///NDL-C-DEEP-STATION//492098u8-9g78-3948-9g09-890890g789ye",
-          "corpro": "Horus",
-          "frame": "Hydra",
-          "mech": "Monsus The Battle Bus"
-        },
-	{
-          "callsign": "Birdy",
-          "alias": "Alison Rosalyn Hawk",
-          "code": "5fg34gh6-n657-n6jk5-b5jg-d678s56w78e///NDL-C-DEEP-STATION//8965r579-ji75-gy75-99y9-789656d674e5",
-          "corpro": "Horus",
-          "frame": "Balor",
-          "mech": "E.T.N.A"
-        },
-	{
-          "callsign": "Monkey",
-          "alias": "Sophia Ogawa",
-          "code": "7d998d67s-78s6-9c064-8d40-720g427dx329///NDL-C-DEEP-STATION//930558r2-i74e-8324-ue64-878935386c74w",
-          "corpro": "SSC",
-          "frame": "Orchis",
-          "mech": "Arcturus"
-        },
-      ],
+{
+	"callsign": "HB",
+	"alias": "Honey",
+	"code": "3c77860d-7c05-4b79-8021-31d83cac1353",
+	"corpo": "GMS",
+	"frame": "chomolungma",
+	"mech": "Discord Kitten"
+},
+{
+	"callsign": "Count",
+	"alias": "Cresla Major",
+	"code": "88a39b8a-1a60-48f6-8133-184f2de947ee",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "Wensleydale"
+},
+{
+	"callsign": "Castlefall",
+	"alias": "Randalla",
+	"code": "5efa3efa-9f63-4680-bc99-84198b8f27d8",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "Apologies in Advance"
+},
+{
+	"callsign": "Ember",
+	"alias": "Ellis Coen",
+	"code": "e5c3a5e7-39a1-49a4-9155-c184a0d770a3",
+	"corpo": "GMS",
+	"frame": "chomolungma",
+	"mech": "Mechy McMechface"
+},
+{
+	"callsign": "Khepri",
+	"alias": "Faramarz Assalon",
+	"code": "0accf271-4128-4488-a6ad-3ad72b79a335",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "Evolution By Shock"
+},
+{
+	"callsign": "MIRAGE",
+	"alias": "Avron Aubery",
+	"code": "6ccc5d00-2315-4343-8c5f-fb75f336ef83",
+	"corpo": "IPS-N",
+	"frame": "zheng",
+	"mech": "A Gentelman Will Walk But Never Run"
+},
+{
+	"callsign": "Badger",
+	"alias": "Darragh Black",
+	"code": "7fff6993-18f0-4711-b4ad-d530cced8981",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "In Search Of Elusive Little Comets"
+},
+{
+	"callsign": "Charon",
+	"alias": "Kere Feldston",
+	"code": "b78cb30e-c0c4-46fe-bfa1-5b29cf95cb01",
+	"corpo": "HORUS",
+	"frame": "gorgon",
+	"mech": "SCREAM HER NAME"
+},
+{
+	"callsign": "HACKERMANS.omif",
+	"alias": "Ecne",
+	"code": "608020a8-d694-4d4b-a93e-d62a64172212",
+	"corpo": "HORUS",
+	"frame": "hydra",
+	"mech": "Monsus the Battle Bus"
+},
+{
+	"callsign": "Lockjaw",
+	"alias": "Rinea Farthing",
+	"code": "9a8a5302-b10d-4824-a07a-6bd979db6fee",
+	"corpo": "IPS-N",
+	"frame": "blackbeard",
+	"mech": "If it was a good morning, I'd be grappling"
+},
+{
+	"callsign": "Foundryside",
+	"alias": "Gregor Vancil",
+	"code": "c8dc2f82-c0bf-42d7-a00f-583b55fb892e",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "General. Ambulatory. Repair. Loader"
+},
+{
+	"callsign": "Birdy",
+	"alias": "Alison Rosalyn Hawk   ",
+	"code": "f82bed86-0e32-4b9d-a884-3f06c73e59cb",
+	"corpo": "HORUS",
+	"frame": "balor",
+	"mech": "E.T.N.A."
+},
+{
+	"callsign": "Monkey",
+	"alias": "Sophia Ogawa",
+	"code": "bbede182-f785-4627-b36c-05c3fa1dde0f",
+	"corpo": "SSC",
+	"frame": "black witch alt orchidea",
+	"mech": "Arcturus"
+},
+],
       "header": {
         "planet": "Astran IV",
         "year": "5014u",

@@ -126,68 +126,12 @@ export default {
       ],
       "pilots": [
 {
-	"callsign": "HB",
-	"alias": "Honey",
-	"code": "3c77860d-7c05-4b79-8021-31d83cac1353",
-	"corpo": "GMS",
-	"frame": "chomolungma",
-	"mech": "Discord Kitten"
-},
-{
-	"callsign": "Count",
-	"alias": "Cresla Major",
-	"code": "88a39b8a-1a60-48f6-8133-184f2de947ee",
-	"corpo": "GMS",
-	"frame": "standard pattern i everest",
-	"mech": "Wensleydale"
-},
-{
-	"callsign": "Castlefall",
-	"alias": "Randalla",
-	"code": "5efa3efa-9f63-4680-bc99-84198b8f27d8",
-	"corpo": "GMS",
-	"frame": "standard pattern i everest",
-	"mech": "Apologies in Advance"
-},
-{
-	"callsign": "Ember",
-	"alias": "Ellis Coen",
-	"code": "e5c3a5e7-39a1-49a4-9155-c184a0d770a3",
-	"corpo": "GMS",
-	"frame": "chomolungma",
-	"mech": "Mechy McMechface"
-},
-{
-	"callsign": "Khepri",
-	"alias": "Faramarz Assalon",
-	"code": "0accf271-4128-4488-a6ad-3ad72b79a335",
-	"corpo": "GMS",
-	"frame": "standard pattern i everest",
-	"mech": "Evolution By Shock"
-},
-{
-	"callsign": "MIRAGE",
-	"alias": "Avron Aubery",
-	"code": "6ccc5d00-2315-4343-8c5f-fb75f336ef83",
-	"corpo": "IPS-N",
-	"frame": "zheng",
-	"mech": "A Gentelman Will Walk But Never Run"
-},
-{
-	"callsign": "Badger",
-	"alias": "Darragh Black",
-	"code": "7fff6993-18f0-4711-b4ad-d530cced8981",
-	"corpo": "GMS",
-	"frame": "standard pattern i everest",
-	"mech": "In Search Of Elusive Little Comets"
-},
-{
-	"callsign": "Charon",
-	"alias": "Kere Feldston",
-	"code": "b78cb30e-c0c4-46fe-bfa1-5b29cf95cb01",
-	"corpo": "HORUS",
-	"frame": "gorgon",
-	"mech": "SCREAM HER NAME"
+	"callsign": "Monkey",
+	"alias": "Sophia Ogawa",
+	"code": "bbede182-f785-4627-b36c-05c3fa1dde0f",
+	"corpo": "SSC",
+	"frame": "black witch alt orchidea",
+	"mech": "Arcturus"
 },
 {
 	"callsign": "HACKERMANS.omif",
@@ -198,20 +142,12 @@ export default {
 	"mech": "Monsus the Battle Bus"
 },
 {
-	"callsign": "Lockjaw",
-	"alias": "Rinea Farthing",
-	"code": "9a8a5302-b10d-4824-a07a-6bd979db6fee",
-	"corpo": "IPS-N",
-	"frame": "blackbeard",
-	"mech": "If it was a good morning, I'd be grappling"
-},
-{
-	"callsign": "Foundryside",
-	"alias": "Gregor Vancil",
-	"code": "c8dc2f82-c0bf-42d7-a00f-583b55fb892e",
-	"corpo": "GMS",
-	"frame": "standard pattern i everest",
-	"mech": "General. Ambulatory. Repair. Loader"
+	"callsign": "Charon",
+	"alias": "Kere Feldston",
+	"code": "b78cb30e-c0c4-46fe-bfa1-5b29cf95cb01",
+	"corpo": "HORUS",
+	"frame": "gorgon",
+	"mech": "SCREAM HER NAME"
 },
 {
 	"callsign": "Birdy",
@@ -222,12 +158,76 @@ export default {
 	"mech": "E.T.N.A."
 },
 {
-	"callsign": "Monkey",
-	"alias": "Sophia Ogawa",
-	"code": "bbede182-f785-4627-b36c-05c3fa1dde0f",
-	"corpo": "SSC",
-	"frame": "black witch alt orchidea",
-	"mech": "Arcturus"
+	"callsign": "MIRAGE",
+	"alias": "Avron Aubery",
+	"code": "6ccc5d00-2315-4343-8c5f-fb75f336ef83",
+	"corpo": "IPS-N",
+	"frame": "zheng",
+	"mech": "A Gentelman Will Walk But Never Run"
+},
+{
+	"callsign": "Lockjaw",
+	"alias": "Rinea Farthing",
+	"code": "9a8a5302-b10d-4824-a07a-6bd979db6fee",
+	"corpo": "IPS-N",
+	"frame": "blackbeard",
+	"mech": "If it was a good morning, I'd be grappling"
+},
+{
+	"callsign": "Badger",
+	"alias": "Darragh Black",
+	"code": "7fff6993-18f0-4711-b4ad-d530cced8981",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "In Search Of Elusive Little Comets"
+},
+{
+	"callsign": "HB",
+	"alias": "Honey",
+	"code": "3c77860d-7c05-4b79-8021-31d83cac1353",
+	"corpo": "GMS",
+	"frame": "chomolungma",
+	"mech": "Discord Kitten"
+},
+{
+	"callsign": "Foundryside",
+	"alias": "Gregor Vancil",
+	"code": "c8dc2f82-c0bf-42d7-a00f-583b55fb892e",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "General. Ambulatory. Repair. Loader"
+},
+{
+	"callsign": "Khepri",
+	"alias": "Faramarz Assalon",
+	"code": "0accf271-4128-4488-a6ad-3ad72b79a335",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "Evolution By Shock"
+},
+{
+	"callsign": "Ember",
+	"alias": "Ellis Coen",
+	"code": "e5c3a5e7-39a1-49a4-9155-c184a0d770a3",
+	"corpo": "GMS",
+	"frame": "chomolungma",
+	"mech": "Mechy McMechface"
+},
+{
+	"callsign": "Castlefall",
+	"alias": "Randalla",
+	"code": "5efa3efa-9f63-4680-bc99-84198b8f27d8",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "Apologies in Advance"
+},
+{
+	"callsign": "Count",
+	"alias": "Cresla Major",
+	"code": "88a39b8a-1a60-48f6-8133-184f2de947ee",
+	"corpo": "GMS",
+	"frame": "standard pattern i everest",
+	"mech": "Wensleydale"
 },
 ],
       "header": {

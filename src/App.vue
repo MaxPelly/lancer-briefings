@@ -89,8 +89,8 @@ export default {
 
   data() {
     return {
-      "mission_slug": "006",
-      "current_md": "006",
+      "mission_slug": "007",
+      "current_md": "007",
       "events": "",
       "missions": [
           {
@@ -121,8 +121,13 @@ export default {
         {
           "slug": "006",
           "name": "Small Problem - Quick Solution",
-          "status": "start"
+          "status": "success"
         },
+        {
+          "slug": "007",
+          "name": "What They Won't Say",
+          "status": "start"
+        }, 
       ],
       "pilots": [
 {
